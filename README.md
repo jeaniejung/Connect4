@@ -1,2 +1,2 @@
-# Connect4
+# ConnectFour
 Connect Four Game made for OOP practice 
